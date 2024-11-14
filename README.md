@@ -37,3 +37,26 @@ prueba de envió del código y de screanshoot
 ![image](https://github.com/user-attachments/assets/9488631a-74d7-4b09-85af-e24613126167)
 
 # 8
+![image](https://github.com/user-attachments/assets/78866807-c138-44bd-a381-11c7051032c9)
+
+![image](https://github.com/user-attachments/assets/1985245a-bdf7-40c0-98c0-837ac33f5289)
+
+# 9
+![image](https://github.com/user-attachments/assets/3cf23e12-0ef5-4357-802b-ad8f89fc32ca)
+
+![image](https://github.com/user-attachments/assets/99480176-e1a4-4a4c-8265-65249d88bb0a)
+
+# 10
+![image](https://github.com/user-attachments/assets/7ca4a49f-c997-472b-bdc5-2bb0e66b29bd)
+
+![image](https://github.com/user-attachments/assets/afc3a0b4-c0e2-4748-9e3d-aac1a0083fca)
+
+# 11
+![image](https://github.com/user-attachments/assets/78e4c3a0-072a-4c11-a2f1-e91bfe050ce6)
+
+![image](https://github.com/user-attachments/assets/fa4d8d1a-5deb-4856-a38f-4c4fc21eedad)
+
+# 12
+![image](https://github.com/user-attachments/assets/a2043d2f-ebba-4b46-b1bf-024a4cb139c6)
+
+![image](https://github.com/user-attachments/assets/c07ecf22-7430-46b6-be01-43c85677bc5f)
