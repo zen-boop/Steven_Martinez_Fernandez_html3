@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: silver;}
+h1   {color: gold;}
+p    {color: burlywood;}
+</style>
+</head>
+<body>
+<h1>hola</h1>
+<p>pan</p>
+</body>
+</html>
